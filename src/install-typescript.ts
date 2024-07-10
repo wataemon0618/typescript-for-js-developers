@@ -1,4 +1,4 @@
-let message: string = 'Hello, TypeScript様!';
+let message: string = 'Hello, TypeScript様様!';
 console.log({ message });
 
 const main = () => {
